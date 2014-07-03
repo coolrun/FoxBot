@@ -1,4 +1,4 @@
-# PyFoxBot
+# FoxBot
 
 ## Summary
 
