@@ -14,7 +14,7 @@ GNU General Public License for more details.
 """Main module for PyFoxBot"""
 
 def print_intro():
-    print("PyFoxBot Copyright (C) 2014  TheFoxHole (https://github.com/TheFoxHole)")
+    print("FoxBot Copyright (C) 2014  TheFoxHole (https://github.com/TheFoxHole)")
     print("This program comes with ABSOLUTELY NO WARRANTY.")
     print("This is free software, and you are welcome to redistribute it")
     print("under certain conditions; see COPYING.txt for more details..")
