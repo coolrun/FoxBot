@@ -53,5 +53,5 @@ docs/_build/
 target/
 
 #VIM is gay
-.*.*.swp
-.*.*.swo
+.*.swp
+.*.swo
